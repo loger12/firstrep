@@ -1,9 +1,1 @@
 Hello !
-Hello2 !
-<<<<<<< HEAD
-Hello3 !
-=======
-HellHellol�!
-=======
-HellHellol２￥３「３
->>>>>>> 92980d397afcb911c82554d320d51354af20b443
